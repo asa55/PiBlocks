@@ -1,5 +1,8 @@
 # This code is used to show how Pi can be calculated from elastic collisions between two blocks on a frictionless surface
 
+## Before you look at my code, this [guy's visualizations are way cooler](https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html)!
+## My simulation is still interesting though since it lets you stably and quickly calculate way more digits of pi
+
 ## There is a thorough discussion in the Jupyter Notebook, which you can interact with live in your browser (using Binder)
 
 Just go to my [GitHub Pages site](https://asa55.github.io), then click the PiBlocks project link.
