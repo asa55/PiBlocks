@@ -1,6 +1,6 @@
 # This code is used to show how Pi can be calculated from elastic collisions between two blocks on a frictionless surface
 
-## Before you look at my code, [check out Prajwal Souza's work on this problem!](https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html)!
+## Before you look at my code, [check out Prajwal Souza's work on this problem!!](https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html)
 I discovered his code soon after I made this repo, and after thinking about this problem for so long I realized immediately that his implementation is just amazing. What I appreciate the most is that we both made design decisions that make it easy for new users to play with the simulations in a web-based environment:
 * His is HTML/CSS/JS, so there are literally no extra steps for you to take other than visiting his site.
 * Mine is in pure Python, so I found a way for you to easily [run my code using Binder](https://gke.mybinder.org/v2/gh/asa55/PiBlocks/master). (just click the `index.ipynb` file).
